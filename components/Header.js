@@ -36,5 +36,5 @@ const divHeaderContainer = document.querySelector('.header-container')
 const headerDiv = Header()
 
 divHeaderContainer.appendChild(headerDiv)
-
+// console.log(divHeaderContainer)
 

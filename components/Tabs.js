@@ -40,7 +40,7 @@ const tabCreator = (arr) => {  // function that creates div tabs for trending to
 }
 
 
-console.log(divTopics)
+// console.log(divTopics)
 
 
 
